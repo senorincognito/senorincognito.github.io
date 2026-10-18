@@ -1,6 +1,6 @@
 {
-    "versionCode":  1,
-    "versionName":  "0.1.0",
-    "apkUrl":  "https://github.com/senorincognito/senorincognito.github.io/releases/download/ytapp/YTApp-0.1.0.apk",
-    "sha256":  "999bd0c5aab7dd4186f8acfa915507bf4d745ab1024e670462a0bca2244ebf88"
+    "versionCode":  2,
+    "versionName":  "0.1.1",
+    "apkUrl":  "https://github.com/senorincognito/senorincognito.github.io/releases/download/ytapp-0.1.1/app-release.apk",
+    "sha256":  "5261fde2eb2513926564e0d9c24ad269ff5712c91b92bae3df06d927461b1932"
 }
